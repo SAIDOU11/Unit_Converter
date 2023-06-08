@@ -18,9 +18,6 @@ convertBtn.addEventListener("click", () => {
     return;
   }
 
-  console.log(inputText.value * 3.281);
-  console.log(inputText.value * 0.264);
-  console.log(kilogram.toFixed(3));
   meterFeet.textContent = `${enteredValue} meters = ${meter.toFixed(
     3
   )} feet | ${enteredValue} feet = ${feet.toFixed(3)} meters `;
