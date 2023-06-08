@@ -25,7 +25,7 @@ input {
   margin: 0 auto 28px;
   height: 120px;
   width: 180px;
-  font-size: 65px;
+  font-size: 55px;
   color: #fff;
 }
 
@@ -38,7 +38,7 @@ button {
   color: #3d3d3d;
   font-size: 18px;
   margin: 0 auto;
-  width: 185px;
+  width: 27%;
   padding: 10px 20px;
 }
 
